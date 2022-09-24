@@ -1,0 +1,6 @@
+remote_theme: efemkay/digital-garden
+
+# Site Settings & URL is the base hostname with protocol for your site, eg http://example.com
+url             : "https://efemkay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl         : "/test-dg-remote-theme" # If you want to install this jekyll in a subpath (eg /digitalgarden) set it here. Else keep it Empty (DON'T PUT /; Keep it empty)
+description     : "Projects. Notes. Shared."
